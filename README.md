@@ -8,6 +8,6 @@ Implementation of common algorithms and data structures in Dart.
 
 ### Sort
 
-#### Bubble Sort
+* Bubble Sort
 
-#### Insertion Sort
+* Insertion Sort
