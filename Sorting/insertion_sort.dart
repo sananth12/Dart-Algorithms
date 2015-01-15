@@ -10,11 +10,12 @@
  * 
  *    Complexity
  *    
- *    O(n*n) 
+ *    O(n*n)
+ *
+ *    @author : Anantha Natarajan S 
  */
 
-main()
-{
+main() {
   var a =  [42, 12, 88, 62, 63, 56, 1, 77, 818, 97, 97, 20, 45, 91, 62, 2, 15, 31, 59, 5];
   
   for(var i=0; i < a.length; i++) {    

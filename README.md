@@ -12,6 +12,8 @@ Implementation of common algorithms and data structures in Dart.
 
 * Insertion Sort
 
+* Selection Sort
+
 ### Search
 
 ## Data Structures
