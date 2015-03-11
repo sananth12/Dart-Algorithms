@@ -16,6 +16,9 @@ Implementation of common algorithms and data structures in Dart.
 
 ### Search
 
+* Linear Search
+* Binary Search
+
 ## Data Structures
 
 ## Misc
